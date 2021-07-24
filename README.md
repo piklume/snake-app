@@ -1,4 +1,4 @@
-# Snake Game for Tatvasoft coding round
+# Snake Game for coding round
 
 ● Create a 26 x 26 square matrix grid.
 ● Random highlight any one Dot from Grid
